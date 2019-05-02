@@ -1,4 +1,8 @@
 user.name 'susu'
 user.email 'lk19931990@163.com'
---myhome
+--myome
+
 --dev
+
+--dev2
+--冲突合并
